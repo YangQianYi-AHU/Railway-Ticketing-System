@@ -16,7 +16,7 @@ A Python-based railway ticketing system with fare calculator and ticket options.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/railway-ticketing-system.git
+   git clone https://github.com/YangQianYi-AHU/Railway-Ticketing-System.git
    cd railway-ticketing-system
    ```
 
@@ -40,9 +40,9 @@ A Python-based railway ticketing system with fare calculator and ticket options.
 Welcome to the Railway Ticketing System!
 
 Please select your station:
-1. Station A
-2. Station B
-3. Station C
+1. Beijing
+2. GuangZhou
+
 
 Enter your choice: 1
 
@@ -64,10 +64,6 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-For any inquiries, please contact [your email](mailto:your-email@example.com).
-
----
+--
 
 Feel free to customize this README to better match the specifics of your project!
